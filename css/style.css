@@ -1,0 +1,53 @@
+:root { 
+	font-size: 16px;
+	font-family:  "Metamorphous", "Noto Serif", "Open Sans", "Raleway", "Roboto", "Roboto Mono", "Roboto Slab", "Source Sans Pro";
+}
+body {
+	background-image: url("../bg/con-bg.jpg"); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.jumbotron h1 {
+	font-family: "Metamorphous";
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+h2, h3, h4, h5, h6 {
+	font-family: "Raleway", sans-serif;
+}
+p {
+	font-family: "Roboto", sans-serif;
+}
+button	{ 
+	font-family: "Noto Serif", sans-serif;
+}
+#icon-img {
+	width: 50%;
+	height: 50%;
+}
+#idSearch {
+	display: none;
+}
+#plot, #details {
+	align-self: center;
+}
+#showTitleData2 {
+	background-image: url("../bg/bg.jpg"); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;	 
+}
+#imdbRate {
+	align-self: center;
+}
+#card-items {
+	align-content: center;
+}
